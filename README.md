@@ -66,7 +66,7 @@ I'm a **Python developer** with a research background (ORCID verified), actively
 
 A command-line personal finance tracker that helps users log income and expenses, categorise transactions, and generate summaries — built with clean Python architecture and sample data for easy testing.
 
-**What I built:** Full CRUD for financial entries, category-based reporting, and reusable sample data module.  
+**What I built:** Full CRUD for financial entries, category-based reporting, and reusable sample data module.
 **Next step:** Adding LLM-powered spend insights and anomaly detection.
 
 ---
@@ -111,6 +111,7 @@ I approach problems with a researcher's mindset — forming hypotheses, testing 
 ---
 
 ## 🗺️ My Roadmap
+
 ```
 ✅ Python fundamentals & OOP
 ✅ Finance tracker project
