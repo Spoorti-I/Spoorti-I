@@ -58,7 +58,7 @@ Feed it any GitHub repo URL, get back a clean, structured README — automatical
 
 ## 📬 Reach Me
 
-- **LinkedIn:** [linkedin.com/in/spoortiinganalli](https://linkedin.com/in/spoortiinganalli)
+- **LinkedIn:** [linkedin.com/in/spoortiinganalli](https://www.linkedin.com/in/spoorti-inganalli/)
 - **Email:** spoortiinganalli255@gmail.com
 - **Looking for:** Remote / WFH internships in SWE · backend · data · ML
 
